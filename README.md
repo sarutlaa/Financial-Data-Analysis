@@ -6,7 +6,7 @@ This project utilizes SQL on MySQL Server and Tableau Visualizations to extract,
 
 Technologies Used:
 
-1. SQL on MySQL Server
+1. SQL (Aggregate Functions, Sorting, Filtering, Grouping) on MySQL Server
 2. Tableau Visualizations
 
 Project Workflow:
