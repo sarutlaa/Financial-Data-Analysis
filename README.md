@@ -11,7 +11,7 @@ Technologies Used:
 
 Project Workflow:
 1. Data Source - https://www.kaggle.com/datasets/nurudeenabdulsalaam/prosper-loan-dataset
-2. [Data Dictonary ]([url](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0))-
+2. [Data Dictonary ]([url](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0))- Refer Prosper Loan Data - Variable Definitions - Sheet1.pdf
 3. Creating a table named prosperLoandata_temp
 4. Loading .csv into MySQL - https://dev.mysql.com/doc/refman/8.0/en/load-data.html 
 5. Generating KPI Metrics (Loan Portfolio Metrics, Financial Performance, and Borrower Metrics) using SQL Language.
